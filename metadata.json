@@ -1,0 +1,7 @@
+{
+  "name": "AI Blood Demand & Availability Prediction System",
+  "description": "An intelligent platform for blood demand forecasting, real-time inventory monitoring, and shortage risk prediction using machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
